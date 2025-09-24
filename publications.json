@@ -1,7 +1,7 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "[Face image quality vector assessment for biometrics applications]",
       "authors": [
         "Author 1*",
         "Author 2*",
@@ -16,7 +16,7 @@
         "Author 11†",
         "Author 12†"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "WACV (2023)",
       "thumbnail": "images/thumbs/1.jpg",
       "selected": 1,
       "award": "",
