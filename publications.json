@@ -1,18 +1,23 @@
 {
   "publications": [
     {
-      "title": "Aaface: Attribute-aware attentional network for face recognition",
+      "title": "[Paper Title 1]",
       "authors": [
-        "Niloufar Alipour Talemi",
-        "Hossein Kashiani",
-        "Sahar Rahimi Malakshan",
-        "Mohammad Saeed Ebrahimi Saadabadi",
-        "Nima Najafzadeh",
-        "Mohammad Akyash",
-        "Nasser M Nasrabadi"
+        "Author 1*",
+        "Author 2*",
+        "Author 3",
+        "Author 4",
+        "Author 5",
+        "Author 6",
+        "Author 7",
+        "Author 8",
+        "Author 9",
+        "Author 10",
+        "Author 11†",
+        "Author 12†"
       ],
-      "venue": "2023 IEEE International Conference on Image Processing (ICIP)",
-      "thumbnail": "images/thumbs/aaface.jpg",
+      "venue": "Preprint (2025)",
+      "thumbnail": "images/thumbs/1.jpg",
       "selected": 1,
       "award": "",
       "links": {
@@ -22,41 +27,26 @@
       }
     },
     {
-      "title": "Deep boosting multi-modal ensemble face recognition with sample-level weighting",
+      "title": "[Paper Title 2]",
       "authors": [
-        "Sahar Rahimi Malakshan",
-        "Mohammad Saeed Ebrahimi Saadabadi",
-        "Nima Najafzadeh",
-        "Nasser M Nasrabadi"
+        "Author 1*",
+        "Author 2*",
+        "Author 3",
+        "Author 4",
+        "Author 5",
+        "Author 6",
+        "Author 7",
+        "Author 8",
+        "Author 9",
+        "Author 10",
+        "Author 11"
       ],
-      "venue": "2023 IEEE International Joint Conference on Biometrics (IJCB), pages 1-10",
-      "thumbnail": "images/thumbs/deepboost.jpg",
-      "selected": 1,
+      "venue": "Preprint (2025)",
+      "thumbnail": "images/thumbs/2.jpg",
+      "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/pdf/xxxx.xxxxx",
-        "code": "#",
-        "project": "#"
-      }
-    },
-    {
-      "title": "Face image quality vector assessment for biometrics applications",
-      "authors": [
-        "Nima Najafzadeh",
-        "Hossein Kashiani",
-        "Mohammad Saeed Ebrahimi Saadabadi",
-        "Niloufar Alipour Talemi",
-        "Sahar Rahimi Malakshan",
-        "Nasser M Nasrabadi"
-      ],
-      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 511-520, 2023",
-      "thumbnail": "images/thumbs/fiqv.jpg",
-      "selected": 1,
-      "award": "",
-      "links": {
-        "pdf": "https://openaccess.thecvf.com/content/WACV2023/papers/Najafzadeh_Face_Image_Quality_Vector_Assessment_for_Biometrics_Applications_WACV_2023_paper.pdf",
-        "code": "#",
-        "project": "#"
+        "pdf": "#"
       }
     }
   ]
