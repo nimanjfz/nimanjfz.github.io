@@ -1,7 +1,7 @@
 {
   "publications": [
     {
-      "title": "[Face image quality vector assessment for biometrics applications]",
+      "title": "Face image quality vector assessment for biometrics applications",
       "authors": [
         "Author 1*",
         "Author 2*",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "title": "[CURE: Centroid-guided Unsupervised Representation Erasure for Facial Recognition Systems]",
+      "title": "CURE: Centroid-guided Unsupervised Representation Erasure for Facial Recognition Systems",
       "authors": [
         "Author 1*",
         "Author 2*",
