@@ -1,7 +1,7 @@
 {
   "publications": [
     {
-      "title": "Face image quality vector assessment for biometrics applications",
+      "title": "Face Image Quality Vector Assessment for Biometrics Applications",
       "authors": [
         "Author 1*",
         "Author 2*",
@@ -17,7 +17,7 @@
         "Author 12†"
       ],
       "venue": "WACV (2023)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "thumbnail": "images/thumbs/4.png",
       "selected": 1,
       "award": "",
       "links": {
@@ -42,7 +42,7 @@
         "Author 11"
       ],
       "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "thumbnail": "images/thumbs/3.jpg",
       "selected": 0,
       "award": "",
       "links": {
@@ -65,7 +65,7 @@
         "Author 11"
       ],
       "venue": "ICIP (2023)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "thumbnail": "images/thumbs/5.png",
       "selected": 0,
       "award": "",
       "links": {
