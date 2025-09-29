@@ -50,7 +50,53 @@
       }
     },
     {
-      "title": "CURE: Centroid-guided Unsupervised Representation Erasure for Facial Recognition Systems",
+      "title": "AAFACE: Attribute-aware Attentional Network for Face Recognition",
+      "authors": [
+        "Author 1*",
+        "Author 2*",
+        "Author 3",
+        "Author 4",
+        "Author 5",
+        "Author 6",
+        "Author 7",
+        "Author 8",
+        "Author 9",
+        "Author 10",
+        "Author 11"
+      ],
+      "venue": "ICIP (2023)",
+      "thumbnail": "images/thumbs/2.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      }
+    },
+    {
+      "title": "Deep Boosting Multi-Modal Ensemble Face Recognition with Sample-Level Weighting",
+      "authors": [
+        "Author 1*",
+        "Author 2*",
+        "Author 3",
+        "Author 4",
+        "Author 5",
+        "Author 6",
+        "Author 7",
+        "Author 8",
+        "Author 9",
+        "Author 10",
+        "Author 11"
+      ],
+      "venue": "IJCB (2023)",
+      "thumbnail": "images/thumbs/2.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      }
+    },
+    {
+      "title": "Diabetes-associated thigh muscle degeneration mediates knee osteoarthritis–related outcomes: results from a longitudinal cohort study",
       "authors": [
         "Author 1*",
         "Author 2*",
@@ -73,7 +119,7 @@
       }
     },
     {
-      "title": "CURE: Centroid-guided Unsupervised Representation Erasure for Facial Recognition Systems",
+      "title": "Role of Thigh Muscle Changes in Knee Osteoarthritis Outcomes: Osteoarthritis Initiative Data",
       "authors": [
         "Author 1*",
         "Author 2*",
@@ -96,7 +142,7 @@
       }
     },
     {
-      "title": "CURE: Centroid-guided Unsupervised Representation Erasure for Facial Recognition Systems",
+      "title": "Object tracking using Kalman filter with adaptive sampled histogram",
       "authors": [
         "Author 1*",
         "Author 2*",
@@ -119,7 +165,7 @@
       }
     },
     {
-      "title": "CURE: Centroid-guided Unsupervised Representation Erasure for Facial Recognition Systems",
+      "title": "Multiple Soccer Players Tracking",
       "authors": [
         "Author 1*",
         "Author 2*",
