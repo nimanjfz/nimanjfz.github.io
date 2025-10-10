@@ -4,17 +4,11 @@
       "title": "Face Image Quality Vector Assessment for Biometrics Applications",
       "authors": [
         "N. Najafzadeh",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "H. Kashiani",
+        "MSE. Saadabadi",
+        "NA. Talemi",
+        "SR. Malakshan",
+        "N. Nasrabadi"
       ],
       "venue": "WACV (2023)",
       "thumbnail": "images/thumbs/4.png",
@@ -31,15 +25,8 @@
       "authors": [
         "F. Shivam",
         "N. Najafzadeh",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Y. Reddy",
+        "P. Gyawali"
       ],
       "venue": "Preprint (2025)",
       "thumbnail": "images/thumbs/3.png",
@@ -52,17 +39,12 @@
     {
       "title": "AAFACE: Attribute-Aware Attentional Network for Face Recognition",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "NA. Talemi",
+        "H. Kashiani",
+        "SR. Malakshan",
+        "MSE. Saadabadi",
+        "N. Najafzadeh",
+        "N. Nasrabadi"
       ],
       "venue": "ICIP (2023)",
       "thumbnail": "images/thumbs/5.png",
@@ -75,17 +57,10 @@
     {
       "title": "Deep Boosting Multi-Modal Ensemble Face Recognition with Sample-Level Weighting",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "SR. Malakshan",
+        "MSE. Saadabadi",
+        "N. Najafzadeh",
+        "N. Nasrabadi"
       ],
       "venue": "IJCB (2023)",
       "thumbnail": "images/thumbs/6.png",
@@ -144,17 +119,9 @@
     {
       "title": "Object Tracking Using Kalman Filter with Adaptive Sampled Histogram",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "N. Najafzadeh",
+        "M. Fotouhi",
+        "S. Kasaei"
       ],
       "venue": "Preprint (2025)",
       "thumbnail": "images/thumbs/7.png",
@@ -167,17 +134,9 @@
     {
       "title": "Multiple Soccer Players Tracking",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "N. Najafzadeh",
+        "M. Fotouhi",
+        "S. Kasaei"
       ],
       "venue": "Preprint (2025)",
       "thumbnail": "images/thumbs/8.png",
