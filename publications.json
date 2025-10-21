@@ -116,21 +116,6 @@
       }
     },
     {
-      "title": "Object Tracking Using Kalman Filter with Adaptive Sampled Histogram",
-      "authors": [
-        "N. Najafzadeh",
-        "M. Fotouhi",
-        "S. Kasaei"
-      ],
-      "venue": "23rd Iranian Conference on Electrical Engineering (ICEE),2015",
-      "thumbnail": "images/thumbs/7.png",
-      "selected": 0,
-      "award": "",
-      "links": {
-        "pdf": "#"
-      }
-    },
-    {
       "title": "Multiple Soccer Players Tracking",
       "authors": [
         "N. Najafzadeh",
@@ -139,6 +124,20 @@
       ],
       "venue": "The international symposium on artificial intelligence and signal processing (AISP),2015",
       "thumbnail": "images/thumbs/8.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      },
+      {
+      "title": "Object Tracking Using Kalman Filter with Adaptive Sampled Histogram",
+      "authors": [
+        "N. Najafzadeh",
+        "M. Fotouhi",
+        "S. Kasaei"
+      ],
+      "venue": "23rd Iranian Conference on Electrical Engineering (ICEE),2015",
+      "thumbnail": "images/thumbs/7.png",
       "selected": 0,
       "award": "",
       "links": {
