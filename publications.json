@@ -33,7 +33,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://arxiv.org/pdf/2509.19562"
       }
     },
     {
@@ -51,7 +51,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222666"
       }
     },
     {
@@ -67,7 +67,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10448893"
       }
     },
     {
@@ -89,7 +89,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10448875"
       }
     },
     {
@@ -112,7 +112,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://pubs.rsna.org/doi/full/10.1148/radiol.212771"
       }
     },
     {
@@ -127,7 +127,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7123503"
         }
       },
       {
@@ -142,7 +142,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7146319"
       }
     }
   ]
